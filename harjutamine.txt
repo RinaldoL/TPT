@@ -1,1 +1,3 @@
 GitHubi mõistmiseks peate kõigepealt Gitist aru saama. Git on avatud lähtekoodiga versiooni juhtimissüsteem, mille käivitas Linus Torvalds - sama isik, kes lõi Linuxi. Git sarnaneb teiste versioonihaldussüsteemidega - Subversion, CVS ja Mercurial.
+GitHub on Microsofti tütarfirma alates aastast 2018, mil Microsoft ostis GitHubi 7,5 miljardi dollari eest. Seal saab teha koolitöid ja saan kasutada ka kodus.
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007
