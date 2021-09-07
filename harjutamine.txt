@@ -1,0 +1,1 @@
+GitHubi mõistmiseks peate kõigepealt Gitist aru saama. Git on avatud lähtekoodiga versiooni juhtimissüsteem, mille käivitas Linus Torvalds - sama isik, kes lõi Linuxi. Git sarnaneb teiste versioonihaldussüsteemidega - Subversion, CVS ja Mercurial.
